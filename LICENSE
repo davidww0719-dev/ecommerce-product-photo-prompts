@@ -1,0 +1,18 @@
+This repository has two parts with different terms.
+
+1. Prompt text
+   The prompt text in README.md, README.zh.md, prompts/ and data/prompts.json is
+   dedicated to the public domain under CC0 1.0 Universal.
+   You may copy, modify and use it for any purpose, without asking and without credit.
+   Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+2. Images (everything under images/)
+   The images are sample outputs and sample input photos from the public examples
+   published by image2ai. They are included here only to show what each prompt
+   produced. They are NOT covered by CC0, and this repository does not grant any
+   license to reuse them. To make your own version, run the prompt yourself.
+
+The images are AI-generated. No guarantee is made that they qualify for copyright
+protection, or that outputs you generate from these prompts will look the same.
+Product and label names that appear in the images (for example "PEAKLINE" and
+"VERDA") are made up for the samples and do not refer to real brands.

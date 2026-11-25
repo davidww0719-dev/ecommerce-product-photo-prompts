@@ -1,0 +1,786 @@
+[
+ {
+  "id": "tpl-fill-e04",
+  "category": "clean-catalog",
+  "type": "text-to-image",
+  "title": "Ceramic Bowl Collection",
+  "alt": "White, clay-pink and moss-green ceramic bowls on a light-gray studio background",
+  "prompt": "Create a clean catalog photograph of three original handmade ceramic bowls in chalk white, clay pink and moss green, arranged at different heights on a seamless light-gray background. Show glaze variation and believable contact shadows, crisp edges, broad softbox lighting. No food, people, text, logos or recognizable branded patterns.",
+  "lang": "en",
+  "suggested_model": "gpt-image-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/01-clean-catalog-ceramic-bowls.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-e04-1200.webp",
+    "sha256": "779c0e748ca8c2ba7b683fca033707f28d14b34d0ca13660082acbd549d91fa1",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-e02",
+  "category": "clean-catalog",
+  "type": "text-to-image",
+  "title": "Trail Backpack Detail",
+  "alt": "Rust-orange hiking backpack on a stone plinth against a muted blue background",
+  "prompt": "Photograph a single unbranded rust-orange hiking backpack standing on a pale stone studio plinth. Three-quarter view, believable woven fabric, visible stitching, straps and zipper pulls, soft directional light and a muted blue background. Keep the entire bag inside the frame. No people, labels, text, logos or recognizable branded design.",
+  "lang": "en",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/01-clean-catalog-trail-backpack.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-e02-1086.webp",
+    "sha256": "d1bad4b5fbe556f5611a461c8d8fdb7c342b118388c1bac69ea347c3fcd80824",
+    "site_records": [
+     {
+      "w": 1086,
+      "h": 1448,
+      "sizes": "360,480,720,1086",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-z01",
+  "category": "clean-catalog",
+  "type": "text-to-image",
+  "title": "竹编收纳篮主图",
+  "alt": "竹编收纳篮置于浅色背景上，呈现竹条纹理与编织细节",
+  "prompt": "原创电商商品摄影，一只无品牌的浅色竹编收纳篮放在米白无缝背景上，四分之三视角，完整展示篮口、提手和细密编织纹理，篮内只放一块折叠素色棉布，柔和棚拍光，真实接触阴影，画面干净。不要人物、文字、标签、品牌标志、水印或可识别的品牌专属造型。",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/01-clean-catalog-bamboo-basket.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-z01-1200.webp",
+    "sha256": "2659ddc922b4594b1518c0b6023849808a6ee2f8568975c72df7491728b1e7a5",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-z02",
+  "category": "clean-catalog",
+  "type": "text-to-image",
+  "title": "手工茶壶细节图",
+  "alt": "手工茶壶的壶身、壶嘴与釉面细节",
+  "prompt": "原创商品摄影，一把无品牌的紫砂小茶壶放在浅灰石台上，壶盖正常合拢，壶嘴与把手完整入镜，侧后方柔光表现细腻砂粒和温润质感，背景为低饱和暖灰，不摆茶杯，不加装饰文字。不要人物、印章、款识、品牌标志、水印或知名器型的直接复制。",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/01-clean-catalog-clay-teapot.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-z02-1086.webp",
+    "sha256": "9a10393d512d8b5a3c05b118286f5d47dcf8b7400c051464f0ebd06519c1c28d",
+    "site_records": [
+     {
+      "w": 1086,
+      "h": 1448,
+      "sizes": "360,480,720,1086",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-repo-product-photo-15",
+  "category": "clean-catalog",
+  "type": "text-to-image",
+  "title": "冰淇淋商品静物",
+  "alt": "极简商品图：银色勺子上一球粉色草莓冰淇淋，暖米色纯色背景",
+  "prompt": "极简静物商品图：银色勺子上一球粉色草莓冰淇淋，暖米色纯色背景，柔和侧光，浅景深，干净的电商风格",
+  "lang": "zh",
+  "suggested_model": "nano-banana-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/01-clean-catalog-ice-cream-spoon.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-repo-product-photo-15-720.webp",
+    "sha256": "2df21ee924bd530fb8949f2362d54d91aa1ea336a2a1de67f9804682611fb9cc",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 960,
+      "sizes": "360,480,720",
+      "rest": "1"
+     },
+     {
+      "w": 720,
+      "h": 964,
+      "sizes": "360,480,720",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-e01",
+  "category": "lifestyle",
+  "type": "text-to-image",
+  "title": "Handmade Soap Flat Lay",
+  "alt": "Three oat soap bars on ivory linen with scattered oats and a wooden tray",
+  "prompt": "Create an original overhead product photograph of three unbranded handmade oat soap bars on ivory linen, with scattered oats and a small wooden tray. Show the cut texture clearly, soft morning side light, warm neutral colors, generous space between objects. No people, packaging text, logos, watermarks or recognizable branded shapes.",
+  "lang": "en",
+  "suggested_model": "gpt-image-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/02-lifestyle-soap-flat-lay.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-e01-1200.webp",
+    "sha256": "689590c1f3bf1cf85b3c322aed4770ecc8bfb165128bff07cd1e2764882f357f",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-e03",
+  "category": "lifestyle",
+  "type": "text-to-image",
+  "title": "Sculptural Table Lamp",
+  "alt": "Cream pleated table lamp with a walnut base glowing against a dusk wall",
+  "prompt": "Create an original interior product photograph of an unbranded sculptural table lamp with a cream pleated shade and walnut base on a simple side table. Warm lamp glow against a cool dusk wall, realistic fabric and wood grain, restrained styling, empty space to the left. No people, lettering, logos or recognizable designer-product replicas.",
+  "lang": "en",
+  "suggested_model": "gpt-image-2",
+  "ratio": "4:3",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/02-lifestyle-table-lamp.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-e03-1200.webp",
+    "sha256": "337c9fdbcd12703fd25d1fcd06091c41db5c28567192ce8df9bd39f9e21b904d",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 900,
+      "sizes": "360,480,720,1200",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "en-studio-perfume",
+  "category": "lifestyle",
+  "type": "text-to-image",
+  "title": "Perfume on wet stones",
+  "alt": "Unbranded amber perfume bottle on wet black stones with warm rim light and a teal glow",
+  "prompt": "Unbranded amber glass perfume bottle on wet black stones, gentle ripples, warm rim light and teal background glow, luxury ad look, empty space on the left for copy",
+  "lang": "en",
+  "suggested_model": "nano-banana-pro",
+  "ratio": "16:9",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/02-lifestyle-perfume-wet-stones.webp",
+    "url": "https://image2ai.cloud/examples/home/en-studio-perfume-1200.webp",
+    "sha256": "ac07b5999a66c3d9ecc0c9d94e9ffd0e00c43231a0bc43077253981a0cc31483",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 675,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     },
+     {
+      "w": 1200,
+      "h": 670,
+      "sizes": "360,480,720,1200",
+      "rest": "1|nano-banana-pro"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-z04",
+  "category": "lifestyle",
+  "type": "text-to-image",
+  "title": "原木文具俯拍",
+  "alt": "原木文具整齐排列的俯拍静物",
+  "prompt": "原创电商俯拍图，一套无品牌原木文具整齐摆在暖白桌面上，包括木尺、无字封面的线装笔记本、素色铅笔和小号木笔筒，各物件之间留出清晰间隔，柔和窗光，真实木纹，克制的米棕配色。尺面不写数字，笔记本与铅笔不写字，不要人物、品牌标志或水印。",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "4:3",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/02-lifestyle-wooden-stationery.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-z04-1200.webp",
+    "sha256": "c3c05f856041ad46db18ecc947f24fac0c341095d04b0d0de1fae392ab4298cd",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 900,
+      "sizes": "360,480,720,1200",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "en-wall-mk-38-en",
+  "category": "ad-creative",
+  "type": "text-to-image",
+  "title": "Protein shake splash ad",
+  "alt": "Matte blue \"PEAKLINE\" protein shake bottle leaning into a creamy milk splash with blueberries",
+  "prompt": "Hyper-real product ad: a matte blue protein shake bottle labeled \"PEAKLINE\" leaning into a creamy milk splash with blueberries, condensation drops, studio light",
+  "lang": "en",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/03-ad-creative-protein-shake-splash.webp",
+    "url": "https://image2ai.cloud/examples/home/en-wall-mk-38-en-720.webp",
+    "sha256": "c16464e07670c3293d8dd0a78e90cf38b613a273d6c79ccc1c050dc454751e7e",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 960,
+      "sizes": "360,480,720",
+      "rest": "1"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "en-wall-mk-24-en",
+  "category": "ad-creative",
+  "type": "text-to-image",
+  "title": "Exploded headphones",
+  "alt": "Exploded view of unbranded over-ear headphones with parts floating in alignment on white",
+  "prompt": "Exploded view of unbranded over-ear headphones: ear cups, drivers, cushions, circuit board and screws floating in perfect alignment on a white seamless background",
+  "lang": "en",
+  "suggested_model": "nano-banana-pro",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/03-ad-creative-exploded-headphones.webp",
+    "url": "https://image2ai.cloud/examples/home/en-wall-mk-24-en-720.webp",
+    "sha256": "06997afc0cfe299107ffb39d91420f7d5b70b91a3a892d91f4a6bdb1e408ba5d",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 720,
+      "sizes": "360,480,720",
+      "rest": "1"
+     },
+     {
+      "w": 720,
+      "h": 720,
+      "sizes": "360,480,720",
+      "rest": "1|nano-banana-pro"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-jm-product-01",
+  "category": "ad-creative",
+  "type": "text-to-image",
+  "title": "气泡酒飞溅广告",
+  "alt": "绿色玻璃瓶苹果气泡酒立在冰块和青苹果片中，酒液向四周飞溅的商品广告图",
+  "prompt": "苹果气泡酒商品广告：绿色玻璃瓶立在冰块和青苹果片中，酒液向四周飞溅，亮绿色背景，高速摄影质感，瓶身不出现文字",
+  "lang": "zh",
+  "suggested_model": "nano-banana-pro",
+  "ratio": "9:16",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/03-ad-creative-cider-splash.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-jm-product-01-720.webp",
+    "sha256": "a7bd05a637d833adccba1f67208d7849dabeeba50f57c8ad60900d891a441d9c",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 1279,
+      "sizes": "360,480,720",
+      "rest": "1"
+     },
+     {
+      "w": 720,
+      "h": 1290,
+      "sizes": "360,480,720",
+      "rest": "1|nano-banana-pro"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-jm-product-06",
+  "category": "ad-creative",
+  "type": "text-to-image",
+  "title": "口红甜品挞静物",
+  "alt": "复古静物广告：红格子桌布上的樱桃甜品挞，两支红色口红插在奶油上，天蓝色背景",
+  "prompt": "复古静物广告：红格子桌布上一只樱桃甜品挞，两支红色口红插在奶油上，红丝带和樱桃散落，天蓝色背景，明亮硬光",
+  "lang": "zh",
+  "suggested_model": "nano-banana-2",
+  "ratio": "4:3",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/03-ad-creative-lipstick-tart.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-jm-product-06-1200.webp",
+    "sha256": "f66755da7233444ca02a575dd66005d813bb4ce3f05246bc1b480b9c742295c9",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 675,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     },
+     {
+      "w": 1200,
+      "h": 896,
+      "sizes": "360,480,720,1200",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-fill-z03",
+  "category": "ad-creative",
+  "type": "text-to-image",
+  "title": "折叠雨伞雨滴广告",
+  "alt": "带有雨滴的折叠雨伞商品广告图",
+  "prompt": "原创商品广告，一把无品牌的深青色折叠雨伞完全撑开，伞柄朝下，完整悬置在浅蓝灰背景中央，伞面布料纹理清晰，少量晶莹雨滴附着，斜向柔光表现防雨质感，构图简洁可信，不做液体飞溅。不要人物、文字、品牌标志、复杂花纹或水印。",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/03-ad-creative-umbrella-raindrops.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-fill-z03-1122.webp",
+    "sha256": "2f46e593a8e03bbbc8fcafd6447709190474b2f292e75aae5ec60119c292a86c",
+    "site_records": [
+     {
+      "w": 1122,
+      "h": 1496,
+      "sizes": "360,480,720,1122",
+      "rest": "result|gpt-image-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "en-wall-mk-01-en",
+  "category": "mockup-holiday",
+  "type": "text-to-image",
+  "title": "Skincare mockup grid",
+  "alt": "Grid of product mockups for a frosted sage-green \"VERDA\" dropper bottle on stone, in water and with botanicals",
+  "prompt": "3x3 grid of designer mockups for one frosted sage-green dropper bottle labeled \"VERDA\": on stone, in water, with botanicals, in hand, flat lay",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/04-mockup-holiday-skincare-mockup-grid.webp",
+    "url": "https://image2ai.cloud/examples/home/en-wall-mk-01-en-720.webp",
+    "sha256": "f7062aad4f14eb825af97564b2e76474b4fec59f3a474b12e4d92f264c5bfb80",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 900,
+      "sizes": "360,480,720",
+      "rest": "1"
+     },
+     {
+      "w": 720,
+      "h": 964,
+      "sizes": "360,480,720",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-zh-mooncake",
+  "category": "mockup-holiday",
+  "type": "text-to-image",
+  "title": "中秋月饼礼盒主图",
+  "alt": "深红色中秋月饼礼盒电商主图，盒里六个金黄月饼，背景圆月，金色书法“月满人团圆”",
+  "prompt": "中秋月饼礼盒电商主图：深红礼盒配金色云纹，六个金黄月饼，切开一个看到莲蓉和咸蛋黄，背景圆月和桂花，金色书法“月满人团圆”",
+  "lang": "zh",
+  "suggested_model": "nano-banana-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/04-mockup-holiday-mooncake-gift-box.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-zh-mooncake-1200.webp",
+    "sha256": "0da8f75de88ce382975da7a7a10dd8e63d810454488e373f040da345813d23d9",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     },
+     {
+      "w": 1024,
+      "h": 1024,
+      "sizes": "360,480,720,1200",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "en-jm-portrait-01-en",
+  "category": "on-model",
+  "type": "text-to-image",
+  "title": "Lipstick beauty close-up",
+  "alt": "Beauty ad close-up of a model with short wet-look blonde hair holding a silver lipstick near her lips",
+  "prompt": "High-end beauty ad close-up: a model with wet-look short blonde hair and freckles holds a silver lipstick near her glossy lips, soft frontal light, off-white background",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": "16:9",
+  "source_page": "https://image2ai.cloud/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/05-on-model-lipstick-beauty-closeup.webp",
+    "url": "https://image2ai.cloud/examples/home/en-jm-portrait-01-en-1200.webp",
+    "sha256": "355bd920be0cc2a9fd284a440c23575c1dc8ad6f30d4cf2d3a4eb2fdaa19a8d0",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 675,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     },
+     {
+      "w": 1200,
+      "h": 670,
+      "sizes": "360,480,720,1200",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-jm-portrait-01",
+  "category": "on-model",
+  "type": "text-to-image",
+  "title": "水光肌美妆特写",
+  "alt": "美妆广告特写：短发女生手拿口红贴近嘴唇，皮肤水润，米白背景",
+  "prompt": "美妆广告特写：短发女生手拿口红贴近嘴唇，皮肤水润有光泽，米白背景，柔和正面光，干净高级",
+  "lang": "zh",
+  "suggested_model": "nano-banana-2",
+  "ratio": "16:9",
+  "source_page": "https://image2ai.cloud/zh/templates/product-photos",
+  "images": {
+   "result": {
+    "file": "images/05-on-model-lipstick-beauty-closeup-zh.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-jm-portrait-01-1200.webp",
+    "sha256": "19ffcce9bb89df46cfb213d3e1a52cb7be6ab55728863a57cc80d8f0abaa95fe",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 675,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     },
+     {
+      "w": 1200,
+      "h": 670,
+      "sizes": "360,480,720,1200",
+      "rest": "1|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "zh-zh-tea-poster",
+  "category": "shop-poster",
+  "type": "text-to-image",
+  "title": "新中式春茶海报",
+  "alt": "新中式茶饮海报：青瓷杯里冒热气的绿茶，宣纸底上书法标题“春茶上新”和红色印章",
+  "prompt": "新中式茶饮海报：青瓷杯里的绿茶冒着热气，米色宣纸背景，几片茶叶和一枝梅花，书法大标题“春茶上新”，小字“明前绿茶 · 每日现泡”，红色印章点缀，大量留白",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/zh/templates/posters",
+  "images": {
+   "result": {
+    "file": "images/07-shop-poster-spring-tea-poster.webp",
+    "url": "https://image2ai.cloud/examples/home/zh-zh-tea-poster-720.webp",
+    "sha256": "7e7a2f40e49a17ff9979f8bc4d51efdab08323affad14d9fb589a01e840ead67",
+    "site_records": [
+     {
+      "w": 720,
+      "h": 960,
+      "sizes": "360,480,720",
+      "rest": "1"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "tpl-dedupe-z05",
+  "category": "shop-poster",
+  "type": "text-to-image",
+  "title": "夏日冰粉新品海报",
+  "alt": "青花瓷碗里的红糖冰粉，大字“冰粉上新”",
+  "prompt": "夏日甜品店新品海报：青花瓷碗里一份红糖冰粉，配山楂碎、葡萄干和花生碎，碗边冒着冷气，背景是竹帘和绿荷叶，大字“冰粉上新”，小字“一碗清凉 · 12 元”，清爽蓝绿配色",
+  "lang": "zh",
+  "suggested_model": "gpt-image-2",
+  "ratio": "3:4",
+  "source_page": "https://image2ai.cloud/zh/templates/posters",
+  "images": {
+   "result": {
+    "file": "images/07-shop-poster-summer-jelly-poster.webp",
+    "url": "https://image2ai.cloud/examples/home/tpl-dedupe-z05-1086.webp",
+    "sha256": "0acbbf1513d80cb1f0f85bc9df9cb8847870cc0c012cefc4dabb32effc4c37fd",
+    "site_records": [
+     {
+      "w": 1086,
+      "h": 1448,
+      "sizes": "360,480,720,1086",
+      "rest": "result|-"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "image-to-image:background",
+  "category": "edit",
+  "type": "edit",
+  "title": "Change the background",
+  "title_zh": "换个背景",
+  "prompt": "Replace the background with a wooden table in a forest and softly blurred leaves. Keep the mug, its angle and lighting direction unchanged.",
+  "prompt_zh": "把背景换成森林里的木桌和虚化树叶，保留杯子本身、角度与光线方向。",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/image-to-image",
+  "images": {
+   "input": {
+    "file": "images/06-edit-mug-forest-input.webp",
+    "url": "https://image2ai.cloud/examples/home/cbg-mug-before-1200.webp",
+    "sha256": "26534f9c600bd8f215ba7a4157eef8a51c07716e2502bd7106254e514c020fa6",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "1"
+     }
+    ]
+   },
+   "result": {
+    "file": "images/06-edit-mug-forest.webp",
+    "url": "https://image2ai.cloud/examples/home/cbg-mug-forest-1200.webp",
+    "sha256": "5621551fc0945a4870ed1df60ea7aa9fbf9197c8b28419d081f1992741b08d45",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "result|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "image-to-image:color",
+  "category": "edit",
+  "type": "edit",
+  "title": "Recolor a product",
+  "title_zh": "商品换个颜色",
+  "prompt": "Recolor the sneaker to sage green canvas with cream soles. Keep the exact same shoe shape, laces, stitching, background, lighting and angle.",
+  "prompt_zh": "把运动鞋的帆布鞋面改成鼠尾草绿色，鞋底改成奶油色。鞋型、鞋带、缝线、背景、光线和角度完全不变。",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": "1:1",
+  "source_page": "https://image2ai.cloud/image-to-image",
+  "images": {
+   "input": {
+    "file": "images/06-edit-sneaker-recolor-input.webp",
+    "url": "https://image2ai.cloud/examples/home/t18-color-original-1200.webp",
+    "sha256": "3f0f264de28b029658f520416de296f90590a1cf0046af1025e1161efae2c299",
+    "site_records": [
+     {
+      "w": 1254,
+      "h": 1254,
+      "sizes": "360,480,720,1200",
+      "rest": "0|"
+     }
+    ]
+   },
+   "result": {
+    "file": "images/06-edit-sneaker-recolor.webp",
+    "url": "https://image2ai.cloud/examples/home/t18-color-result-720.webp",
+    "sha256": "5b928410e768e43018225b53892a854a815c58a8c5d6bfa8ba7e7f00667b43c8",
+    "site_records": [
+     {
+      "w": 1024,
+      "h": 1024,
+      "sizes": "360,480,720",
+      "rest": "0|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "combine-images:preset2",
+  "category": "edit",
+  "type": "edit",
+  "title": "Product into a scene",
+  "title_zh": "商品放进场景",
+  "prompt": "Place the product from image 1 into the scene from image 2 as if it was photographed there. Keep the product shape, colours and label text unchanged, add a soft contact shadow, and match the scene lighting.",
+  "prompt_zh": "把图 1 的商品放进图 2 的场景里，像是在那里实拍的：商品形状、颜色和包装上的文字保持不变，加上自然的接触阴影，光线与场景一致。",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": null,
+  "source_page": "https://image2ai.cloud/tools/combine-images",
+  "images": {
+   "input": {
+    "file": "images/06-edit-product-into-scene-input1.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-orig-cmb-p2-a-1024.webp",
+    "sha256": "86b0114d4c2290af4eb14b7a273bfb74500f961bbc0a08b71e3520ad3252f6c3",
+    "site_records": [
+     {
+      "w": 1024,
+      "h": 1536,
+      "sizes": "360,480,720,1024",
+      "rest": "original|-"
+     }
+    ]
+   },
+   "input2": {
+    "file": "images/06-edit-product-into-scene-input2.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-orig-cmb-p2-b-1200.webp",
+    "sha256": "41b5f8e42c695abe64ae6d52c808ba79874e4d6c4bb2b1f3f48c4bb89dc0ea11",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 800,
+      "sizes": "360,480,720,1200",
+      "rest": "original|-"
+     }
+    ]
+   },
+   "result": {
+    "file": "images/06-edit-product-into-scene.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-combine-images-en-preset2-1200.webp",
+    "sha256": "70ce12a2d7e48ed9cdc8b631d95865e6970e54cf70e71be957a99f2c48e4d7f5",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 805,
+      "sizes": "360,480,720,1200",
+      "rest": "result|nano-banana-2"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "outfit-generator:preset3",
+  "category": "on-model",
+  "type": "edit",
+  "title": "Wear my product",
+  "title_zh": "穿上我的新品",
+  "prompt": "Dress the person from image 1 in the garment from image 2. Keep the garment colour, pattern, logo-free details and cut exactly as in image 2, and keep the person’s face, pose and background unchanged.",
+  "prompt_zh": "让图 1 里的人穿上图 2 的衣服：衣服的颜色、图案、版型与图 2 完全一致（不出现任何品牌标志），人物的脸、姿势和背景保持不变。",
+  "lang": "en",
+  "suggested_model": "nano-banana-2",
+  "ratio": null,
+  "source_page": "https://image2ai.cloud/tools/outfit-generator",
+  "images": {
+   "input": {
+    "file": "images/05-on-model-wear-my-product-input1.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-orig-of-p3-a-1024.webp",
+    "sha256": "9e7ee35bd311fadcb9a10d8d954ed0eabbb8248df903b5572bb6a886a1cd3e39",
+    "site_records": [
+     {
+      "w": 1024,
+      "h": 1536,
+      "sizes": "360,480,720,1024",
+      "rest": "original|-"
+     }
+    ]
+   },
+   "input2": {
+    "file": "images/05-on-model-wear-my-product-input2.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-orig-of-p3-b-1200.webp",
+    "sha256": "580e521d2953cd29e45a264b4afd906d0f4f8f4e83fa3182f53eb229a1ff9071",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1200,
+      "sizes": "360,480,720,1200",
+      "rest": "original|-"
+     }
+    ]
+   },
+   "result": {
+    "file": "images/05-on-model-wear-my-product.webp",
+    "url": "https://image2ai.cloud/examples/home/fill-outfit-generator-en-preset3-1200.webp",
+    "sha256": "86768f7fde676421b243a922185d8b314ee2d67e85005c28aa8601748ee13d79",
+    "site_records": [
+     {
+      "w": 1200,
+      "h": 1789,
+      "sizes": "360,480,720,1200",
+      "rest": "result|nano-banana-2"
+     }
+    ]
+   }
+  }
+ }
+]
